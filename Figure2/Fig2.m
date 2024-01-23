@@ -1,5 +1,5 @@
 close all;clear all;
-addpath ~/data/toolbox/trend
+addpath $trend
 reg='CAO';
 dat={'OBS' 'ERA5'  'CMIP6' }
 fz=14;C2K=273.15;
