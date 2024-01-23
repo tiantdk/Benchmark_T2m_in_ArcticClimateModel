@@ -1,4 +1,4 @@
-Scripts to create necessary data files and figures for paper "Concerns on benchmarking climate models in the Arctic"
+Scripts and processed data to generate figures and tables for paper "Cooler Arctic surface temperatures simulated by climate models are in better agreement with satellite-based data than the ERA5 reanalysis".
 All scripts used are in the Matlab or Python command languages. To use
 >matlab test.m
 >python script.py
